@@ -28,4 +28,4 @@ async def getUsers():
         "email": "someone@gmail.com"
         
     } 
-    ]
+    ] 
